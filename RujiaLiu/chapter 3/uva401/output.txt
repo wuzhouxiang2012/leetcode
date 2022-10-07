@@ -1,0 +1,26 @@
+8Z8 -- is a regular palindrome.
+
+3ZE -- is not a palindrome.
+
+828 -- is a regular palindrome.
+
+8 -- is a mirrored palindrome.
+
+1 -- is a mirrored palindrome.
+
+3 -- is a regular palindrome.
+
+Y -- is a mirrored palindrome.
+
+U -- is a mirrored palindrome.
+
+AXA -- is a mirrored palindrome.
+
+AMMMMMMMMMMMMMMMMA -- is a mirrored palindrome.
+
+MAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA -- is not a palindrome.
+
+ILOVEMITU -- is not a palindrome.
+
+DREADPIRATE -- is not a palindrome.
+
